@@ -47,4 +47,6 @@ However, remember that navigating the darknet presents inherent risks. Focus on 
 
 This guide is for educational purposes only. The information provided aims to increase awareness and understanding of the darknet. We do not endorse or promote any illegal activities. Always comply with applicable laws and regulations in your jurisdiction.
 
-Update:  14.09.2025
+
+
+Update:  09/18/2025
